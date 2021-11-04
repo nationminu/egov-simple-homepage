@@ -37,7 +37,7 @@
 			<id>egovframe</id>
 			<url>http://maven.egovframe.go.kr/maven/</url>
 			<releases>
-				<enabled>false</enabled>
+				<enabled>true</enabled>
 			</releases>
 			<snapshots>
 				<enabled>false</enabled>
